@@ -49,7 +49,7 @@ Documentation
 -------------
 
 - [Flash-video](https://github.com/inventos/FlockPlay/wiki/flash-video)
-- [Android-video](https://github.com/inventos/FlockPlay/wiki/android-video)
+- [Android-video](https://github.com/inventos/FlockPlay-android)
 - [HTML-static](https://github.com/inventos/FlockPlay/wiki/html-static)
 
 Feedback
